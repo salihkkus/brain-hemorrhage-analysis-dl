@@ -131,7 +131,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👥 Authors
 Developed as part of a University Project.
-- [Salih Kuş](https://github.com/salihkkus)
+- [Salih Karakuş](https://github.com/salihkkus)
 - *Collaborators listed in the project report.*
 
 ---
